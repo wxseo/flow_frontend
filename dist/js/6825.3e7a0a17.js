@@ -1,0 +1,1 @@
+"use strict";(self["webpackChunkorange"]=self["webpackChunkorange"]||[]).push([[6825],{2909:function(e,n,r){r.r(n),r.d(n,{default:function(){return c}});var u=r(56768),t=r(23918),a=(0,u.pM)({__name:"formBanner",setup(e){return(e,n)=>((0,u.uX)(),(0,u.Wv)(t.A,{entryType:0}))}});const s=a;var c=s}}]);

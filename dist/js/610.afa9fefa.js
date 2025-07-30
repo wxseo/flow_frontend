@@ -1,0 +1,1 @@
+"use strict";(self["webpackChunkorange"]=self["webpackChunkorange"]||[]).push([[610],{17110:function(e,n,u){u.r(n),u.d(n,{default:function(){return s}});var r=u(56768),t=u(23918),a=(0,r.pM)({__name:"formSudoku",setup(e){return(e,n)=>((0,r.uX)(),(0,r.Wv)(t.A,{entryType:1}))}});const o=a;var s=o}}]);
