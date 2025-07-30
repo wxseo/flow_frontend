@@ -1,5 +1,5 @@
 # 直接使用Nginx镜像（无需Node构建阶段）
-FROM registry.cn-shanghai.aliyuncs.com/acr-mirror/nginx:alpine
+FROM registry.cn-hangzhou.aliyuncs.com/acs/nginx:alpine
 
 # 复制静态文件
 COPY dist/ /usr/share/nginx/html/
